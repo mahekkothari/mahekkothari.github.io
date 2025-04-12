@@ -1,0 +1,43 @@
+<head>
+    <link rel="stylesheet" href="{{ "/styles.css" | relative_url }}">
+    <link rel="shortcut icon" type="image/png" href="/assets/favicon.png" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+    <!-- Meta tags for SEO & rich link previews -->
+    <meta name="author" content="Mahek Kothari" />
+    <title>Mahek Kothari</title>
+    <meta property="og:title" content="{{ page.title | escape }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
+    <meta property="og:description" content="{{ page.excerpt | escape }}" />
+    <meta property="og:site_name" content="{{ site.title | escape }}" />
+  
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-ZVYSZB1GEW"
+    ></script>
+    <script>
+      if (
+        !(
+          window.doNotTrack === "1" ||
+          navigator.doNotTrack === "1" ||
+          navigator.doNotTrack === "yes" ||
+          navigator.msDoNotTrack === "1"
+        )
+      ) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+  
+        gtag("config", "G-ZVYSZB1GEW");
+      }
+    </script>
+    {%- if jekyll.environment == 'production' and site.google_analytics -%} {%-
+    include google-analytics.html -%} {%- endif -%}
+  </head>
