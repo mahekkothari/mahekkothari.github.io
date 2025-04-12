@@ -177,7 +177,7 @@
 
   .custom-carousel {
     position: relative;
-    max-width: 520px;  /* make the whole thing smaller */
+    max-width: 500px;  /* make the whole thing smaller */
     margin: 2rem auto;
   }
   .carousel-window {
