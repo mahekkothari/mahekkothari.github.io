@@ -18,11 +18,9 @@ In long-form: [LinkedIn](https://linkedin.com/in/mahek-kothari) &  What I've bui
 <div class="custom-carousel">
 <div class="carousel-window">
   <div class="carousel-track">
-    <img src="/assets/slide1.jpeg" alt="Vialto Internship">
-    <img src="/assets/slide2.JPG" alt="SJSU Research">
-    <img src="/assets/slide3.JPEG" alt="Consulting Group">
-    <img src="/assets/slide5.jpeg" alt="Consulting Group">
-    <img src="/assets/slide4.JPG" alt="Consulting Group">
+    <img src="/assets/slide1.jpeg" alt="Theta Tau">
+    <img src="/assets/slide2.JPG" alt="Consulting Group">
+    <img src="/assets/slide4.JPG" alt="Theta Tau">
     </div>
   </div>
   <button class="carousel-btn left" onclick="moveSlide(-1)">‹</button>

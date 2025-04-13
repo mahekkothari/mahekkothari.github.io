@@ -8,6 +8,7 @@ permalink: /about/
 
 #### Reads of 2025 (thus far)
 - The Idiot by Elif Batum 
+- Days at the Morisaki Bookshop by Satoshi Yagisawa
 - The Year of Magical Thinking by Joan Didion
 - On Tyranny by Timothy Snyder
 
