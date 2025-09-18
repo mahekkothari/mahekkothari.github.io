@@ -4,12 +4,12 @@ title: Work
 permalink: /work/
 ---
 
-## Where I've been & what I've done
+## The Where & The What
 
-In long-form: [LinkedIn](https://linkedin.com/in/mahek-kothari) &  What I've built: [GitHub](https://github.com/mahekkothari)
+Who: [LinkedIn](https://linkedin.com/in/mahek-kothari) &  What: [GitHub](https://github.com/mahekkothari)
 
 - Working towards a degree in Data Science at [SJSU College of Science](https://www.sjsu.edu/science/) 
-- Currently, researching promoter and non-promoter sequences in Homo Sapiens using LLMs at [SJSU](https://www.sjsu.edu) under Professor Wendy Lee
+- Research intern where I focused on promoter & non-promoter sequences using LLMs at [SJSU](https://www.sjsu.edu) under Professor Wendy Lee
 - Interned on the data science/AI team @ [Vialto Partners](https://vialtopartners.com) 
 - Analyst & Director of Marketing @ [San Jose Consulting Group](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/sjsuconsulting/&ved=2ahUKEwiZi_LFk9KMAxWmHkQIHbSbDqkQFnoECAoQAQ&usg=AOvVaw1YV22Cfj4JLFqRj_jAdszQ) 
 - Taught (block-based) Programming @ [Code Advantage](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.codeadvantage.org/&ved=2ahUKEwiJrfr2k9KMAxWDKEQIHUR1HbIQFnoECAoQAQ&usg=AOvVaw2AlBFsBMbFr-GNwPc96fYk)
